@@ -12,4 +12,4 @@ Before submitting, please search [existing issues](../../issues) to avoid duplic
 ## Links
 
 - Homepage: [antifyapp.com](https://antifyapp.com)
-- Install via Homebrew: `brew tap free-lester/antify && brew install --cask antify`
+- Install via Homebrew: `brew tap cyberlesterr/antify && brew install --cask antify`

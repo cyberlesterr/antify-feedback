@@ -20,7 +20,7 @@ Before submitting, please search [existing issues](../../issues) to avoid duplic
 
 <table>
   <tr>
-    <td><img src="assets/xhs_chat_group.jpg" alt="小红书 Antify 用户交流群" width="280" height="500" /></td>
-    <td><img src="assets/wechat_group.jpg" alt="微信 Antify 用户交流群" width="280" height="500" /></td>
+    <td><img width="280" height="500" alt="Image" src="https://github.com/user-attachments/assets/b1b72f45-3792-41c1-9f6d-7a8214f37108" /></td>
+    <td><img width="280" height="500" alt="Image" src="https://github.com/user-attachments/assets/6c9e0ff9-25ea-46e9-b90e-d2d99e543a7c" /></td>
   </tr>
 </table>

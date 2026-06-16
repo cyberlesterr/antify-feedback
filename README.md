@@ -20,7 +20,7 @@ Before submitting, please search [existing issues](../../issues) to avoid duplic
 
 <table>
   <tr>
-    <td><img width="280" height="500" alt="Image" src="https://github.com/user-attachments/assets/4f424c9b-0995-4770-aa00-bc45ace732e9" /></td>
+    <td><img width="280" height="500" alt="Image" src="https://github.com/user-attachments/assets/3336c1b9-1b12-4f4f-b9b7-3172761f1a79" /></td>
     <td><img width="280" height="500" alt="Image" src="https://github.com/user-attachments/assets/3f5375ca-54b3-47cb-8b77-e3f51475c00b" /></td>
   </tr>
 </table>

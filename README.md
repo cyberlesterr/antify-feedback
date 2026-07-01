@@ -13,6 +13,7 @@ Before submitting, please search [existing issues](../../issues) to avoid duplic
 
 - Homepage: [antifyapp.com](https://antifyapp.com)
 - Install via Homebrew: `brew tap cyberlesterr/antify && brew install --cask antify`
+- Discord: [Join our community](https://discord.gg/XNUhfU7Jm)
 
 ## 交流群
 

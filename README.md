@@ -21,7 +21,7 @@ Before submitting, please search [existing issues](../../issues) to avoid duplic
 
 <table>
   <tr>
-    <td><img width="280" height="500" alt="Image" src="https://github.com/user-attachments/assets/e6cb8c33-4dfd-4446-9927-2bcc7c195e82" /></td>
+    <td><img width="280" height="500" alt="Image" src="https://github.com/user-attachments/assets/5a3bef59-4091-4311-aa85-0a7a063103bf" /></td>
     <td><img width="280" height="500" alt="Image" src="https://github.com/user-attachments/assets/46da66fb-cb64-48d8-bd63-579959c512a7" /></td>
   </tr>
 </table>

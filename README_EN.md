@@ -8,6 +8,8 @@ Antify is a per-app transparent proxy for macOS. It routes connections from sele
 
 This repository is Antify's public tracker for bug reports, feature requests, and product discussions. It does not contain the Antify application source code.
 
+<img src="assets/antify-rules.png" alt="Antify app rules interface" width="1200" />
+
 ## Features
 
 - Assign `Proxy`, `Direct`, or `Block` actions to individual apps.

@@ -8,6 +8,8 @@ Antify 是一款 macOS 应用级透明代理工具。它通过系统扩展处理
 
 这个仓库是 Antify 的公开反馈入口，用于报告问题、提出功能建议和讨论使用体验。仓库中不包含 Antify 的应用源码。
 
+<img src="assets/antify-rules.png" alt="Antify 应用规则界面" width="1200" />
+
 ## Antify 能做什么
 
 - 为不同 App 分别设置 `Proxy`、`Direct` 或 `Block`。

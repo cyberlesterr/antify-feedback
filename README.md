@@ -37,6 +37,17 @@ brew install --cask antify
 
 第一次使用可以从[安装系统扩展](https://antifyapp.com/zh/guides/first-installation)开始，再按[完整使用指南](https://antifyapp.com/zh/guides)添加代理和应用规则。
 
+## 遇到问题先看这里
+
+| 你遇到的情况 | 指南 |
+|---|---|
+| 扩展装不上，或卡在授权 | [安装 Antify 与系统扩展](https://antifyapp.com/zh/guides/first-installation) |
+| 代理填好了但连不上 | [添加并测试代理服务器](https://antifyapp.com/zh/guides/configure-proxy) |
+| 想让某个 App 走代理、直连或断网 | [为不同 App 设置代理、直连或阻止](https://antifyapp.com/zh/guides/per-app-routing) |
+| 终端或 IDE 启动的命令不走代理 | [让终端和 IDE 启动的命令走指定代理](https://antifyapp.com/zh/guides/dev-tools-proxy) |
+| 要给命令行工具、脚本加规则 | [为 CLI、脚本和包创建路径规则](https://antifyapp.com/zh/guides/command-line-rules) |
+| 不确定规则有没有生效 | [理解「连接」、「探索」和「活动」](https://antifyapp.com/zh/guides/connections-and-activity) |
+
 ## 提交反馈
 
 提交前请先搜索[已有 Issues](../../issues)，看看是否已经有人报告过同一问题。

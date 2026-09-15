@@ -37,6 +37,17 @@ brew install --cask antify
 
 Start with the [system extension installation guide](https://antifyapp.com/en/guides/first-installation), then follow the [complete guide collection](https://antifyapp.com/en/guides) to add a proxy and create app rules.
 
+## Before you open an issue
+
+| If you are stuck on | Guide |
+|---|---|
+| The extension will not install, or approval is stuck | [Install Antify and its system extension](https://antifyapp.com/en/guides/first-installation) |
+| The proxy is configured but will not connect | [Add and test a proxy server](https://antifyapp.com/en/guides/configure-proxy) |
+| Sending one app through a proxy, direct, or nowhere | [Set apps to Proxy, Direct, or Block](https://antifyapp.com/en/guides/per-app-routing) |
+| Commands launched by your terminal or IDE ignore the proxy | [Route the commands your terminal and IDE launch](https://antifyapp.com/en/guides/dev-tools-proxy) |
+| Adding rules for command-line tools and scripts | [Create path rules for CLI tools, scripts, and packages](https://antifyapp.com/en/guides/command-line-rules) |
+| Checking whether a rule actually took effect | [Understand Connections, Discovery, and Activity](https://antifyapp.com/en/guides/connections-and-activity) |
+
 ## Submit feedback
 
 Search [existing issues](../../issues) before opening a new one.

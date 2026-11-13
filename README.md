@@ -73,6 +73,6 @@ brew install --cask antify
 
 <table>
   <tr>
-    <td><img width="280" height="500" alt="Antify 中文交流群二维码" src="https://github.com/user-attachments/assets/78292bf8-a9e7-47be-b797-926674a1234f" /></td>
+    <td><img width="280" height="500" alt="Antify 中文交流群二维码" src="https://github.com/user-attachments/assets/be96f228-e872-4739-83b9-de847a1caefb" /></td>
   </tr>
 </table>
